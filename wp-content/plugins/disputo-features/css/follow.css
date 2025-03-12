@@ -1,0 +1,333 @@
+/* ================= TOPIC CONTAINER ================== */
+
+.bbpf_topic_container {
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.bbpf_topic_header {
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    align-items: center;
+    text-align: center;
+}
+
+.bbpf_topic_title {
+    position: relative;
+    background: #F1F1F1;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid #ddd;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.bbpf_topic_title:after,
+.bbpf_topic_title:before {
+    right: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.bbpf_topic_title:after {
+    border-color: rgba(136, 183, 213, 0);
+    border-right-color: #f1f1f1;
+    border-width: 9px;
+    margin-top: -9px;
+}
+
+.bbpf_topic_title:before {
+    border-color: rgba(221, 221, 221, 0);
+    border-right-color: #dddddd;
+    border-width: 10px;
+    margin-top: -10px;
+}
+
+.bbpf_topic_content_wrapper {
+    border: 1px solid #ddd;
+    width: calc(100% - 150px);
+    border-radius: 0.25rem;
+}
+
+.bbpf_topic_content {
+    padding: 2rem 1.5rem;
+}
+
+.bbpf_topic_content p {
+    margin-bottom: 2rem;
+    font-style: italic;
+}
+
+.bbpf_topic_content div.bbpf_topic_content_btn {
+    display: block;
+    width: 100%;
+    text-align: right;
+}
+
+.bbpf_topic_item {
+    margin-bottom: 3rem;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+}
+
+.bbpf_topic_date {
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid #ddd;
+    font-size: 0.8rem;
+}
+
+.bbpf_topic_header img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.bbpf_img_link {
+    width: 100%;
+}
+
+.bbpf_user_link {
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    max-width: 100%;
+    padding: 0.5rem;
+}
+
+
+/* ================= POPUP ================== */
+
+.bbpf_load_container {
+    position: relative;
+}
+
+.bbpf_load_container .btn {
+    display: block;
+    width: 100%;
+}
+
+.bbpf_view_list .alert {
+    margin: 1rem;
+}
+
+.bbpf-state {
+    padding: .25rem .5rem;
+    font-size: .8203125rem;
+    line-height: 1.5;
+    text-transform: uppercase;
+    border: 1px solid #ddd;
+}
+
+.popup {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 9999999999;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    background-color: rgba(0, 0, 0, 0.4);
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+}
+
+.popup-header {
+    display: grid;
+    grid-template-columns: auto 30px;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    background-color: #f1f1f1;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.popup-header a {
+    grid-column: 2/span 1;
+}
+
+.popup-header h4 {
+    grid-column: 1/span 1;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    line-height: 30px;
+}
+
+
+/* Inner */
+
+.popup-inner {
+    position: relative;
+    background-color: #fff;
+    border-radius: 5px;
+    max-width: 480px;
+    width: 100%;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+
+/* Close Button */
+
+.popup-close {
+    color: #000;
+    text-decoration: none;
+    font-size: 24px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.popup-close i {
+    color: #000;
+    font-size: 24px;
+    width: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.popup-close:hover i {
+    color: #ff5a5f;
+    cursor: pointer;
+}
+
+.bbpf_view_list {
+    overflow: auto;
+    position: relative;
+    min-height: 84px;
+}
+
+.bbpf_user_info img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+}
+
+.fb_load_container {
+    display: none;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    z-index: 9;
+    background: rgba(255, 255, 255, 0.5)
+}
+
+.follow_box_container {
+    display: flex;
+    position: relative;
+    align-items: center;
+    margin-bottom: 2rem;
+    background-color: #F1F1F1;
+    border: 1px solid #ddd;
+    flex-wrap: wrap;
+}
+
+.follow_box_container .bbpf_load_container {
+    margin-left: auto;
+    margin-right: 0.5rem;
+}
+
+.bbpf_followers_link,
+.bbpf_following_link {
+    display: flex;
+    padding: .75rem 1.25rem;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+.bbpf_followers_link .badge,
+.bbpf_following_link .badge {
+    margin: 0 0.25rem;
+}
+
+.bbpf_followers,
+.bbpf_following {
+    border-right: 1px solid #ddd;
+}
+
+.bbpf_msg_unfollow {
+    margin-left: auto;
+    padding: .75rem 1.25rem;
+    color: #ff5a5f;
+}
+
+.bbpf_follow_list_container {
+    display: flex;
+    padding: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #ddd
+}
+
+.bbpf_follow_list_container:last-child {
+    border: none
+}
+
+.bbpf_follow_state {
+    margin-left: auto
+}
+
+@media only screen and (max-width: 991px) {
+    .bbpf_topic_item {
+        flex-direction: column;
+      justify-content: center;
+    }
+    
+    .bbpf_topic_content_wrapper,.bbpf_topic_header {
+        width: 100%;
+    }
+    
+    .bbpf_topic_header {
+      margin-bottom:1.5rem;
+    }
+    
+    .bbpf_topic_title:after, .bbpf_topic_title:before {
+        bottom: 100%;
+        top:auto;
+        left: 50%;
+        right:auto;
+    }
+
+    .bbpf_topic_title:after {
+        border-color: rgba(136, 183, 213, 0);
+        border-bottom-color: #f1f1f1;
+        border-width: 10px;
+        margin-left: -10px;
+        margin-top: 0;
+    }
+
+    .bbpf_topic_title:before {
+        border-color: rgba(221, 221, 221, 0);
+        border-bottom-color: #dddddd;
+        border-width: 11px;
+        margin-left: -11px;
+        margin-top: 0;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .bbpf_follow_state button {
+        padding: 6px;
+    }
+
+    .bbpf_user_info img {
+        height: 25px;
+        width: 25px;
+    }
+}

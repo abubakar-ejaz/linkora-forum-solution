@@ -1,0 +1,236 @@
+/**
+ * bbPress specific CSS
+ *
+ * @package bbPress
+ * @subpackage Theme
+ */
+
+/* ================= GENERAL ================== */
+
+.bbp-template-notice {
+    border-right: 3px solid #1d84b5;
+    border-left:none;
+}
+
+.bbp-template-notice p {
+    margin: 0px;
+}
+
+#subscription-toggle {
+    text-align: left;
+}
+
+/* ================= FORUM TABLE ================== */
+
+/* Header */
+
+.bbp-header > ul > li {
+    border-right: none;
+    border-left: 1px solid #ddd;
+}
+
+.bbp-header > ul > li:last-child {
+    border-right: none;
+    border-left: none;
+}
+
+.bbp-header ul li.bbp-forum-info {
+    text-align: right;
+}
+
+.bbp-header ul li.bbp-forum-freshness,
+.bbp-header ul li.bbp-topic-freshness {
+    text-align: left;
+}
+
+.bbp-forum-info .badge,
+.bbp-topic-title .badge {
+    margin: 0.4rem 0.2rem 0 0;
+}
+
+.disputo-forum-left {
+    padding-left: 1rem;
+    padding-right:0;
+}
+
+/* Body */
+
+.bbp-body > ul > li {
+    border-right: none;
+    border-left: 1px solid #ddd;
+}
+
+.bbp-body > ul > li:last-child {
+    border-right: none;
+    border-left: none;
+}
+
+.bbp-body ul li.bbp-forum-info {
+    text-align: right;
+}
+
+.bbp-body ul li.bbp-forum-freshness,
+.bbp-body ul li.bbp-topic-freshness {
+    text-align: left;
+}
+
+ul.bbp-forums-list li {
+    padding-left: 5px;
+    padding-right: 0px;
+}
+
+.bbp-row-actions #favorite-toggle a,
+.bbp-row-actions #subscription-toggle a {
+    margin: 0px 0px 0px 5px;
+}
+
+.disputo-forum-right .bbp-forum-title,ul.bbp-topics li.bbp-topic-title .bbp-topic-permalink {
+    padding-right: 0px;
+    padding-left:5px;
+}
+
+/* ================= PAGINATION ================== */
+
+.bbp-pagination-count {
+    text-align: right;
+}
+
+.bbp-pagination-links {
+    text-align: left;
+}
+
+/* ================= REPLIES ================== */
+
+/* Top Bar */
+
+.disputo-replies-title {
+    text-align: right;
+}
+
+.disputo-replies-links {
+    text-align: left;
+}
+
+.disputo-replies-favorites {
+    padding-left: 0;
+    padding-right: 1rem;
+}
+
+/* Replies */
+
+.disputo-replies-author {
+    border-right: 0;
+    border-left: 1px solid #ddd;
+}
+
+.disputo-replies-content-bar-left {
+    text-align: right;
+}
+
+.disputo-replies-content-bar-right {
+    text-align: left;
+}
+
+.disputo-replies-content-bar-right > li {
+    padding-left: 0;
+    padding-right: 0.75rem;
+}
+
+/* Revision */
+
+.bbp-topic-revision-log {
+    border-left: none;
+    border-right: 3px solid #1d84b5;
+}
+
+.disputo-forum-search-result-left {
+    padding-left: 20px;
+    padding-right: 0px;
+}
+
+#bbp-header-search-form.disputo_ajax_search_loading:before {
+    right: auto;
+    left: 100px;
+}
+
+/* ================= USER ================== */
+
+.disputo-user-right {
+    padding-right: 40px;
+    padding-left: 0;
+}
+
+.password-button-wrapper .button {
+  margin-left: 0.5rem;
+    margin-right: 0;
+}
+
+.disputo-verified-user .bbp-author-avatar:after {
+    left:0;
+    right:auto;
+}
+
+#bbp-user-avatar.disputo-verified-user:after {
+    right:auto;
+    left:0.5rem;
+}
+
+/* ================= USER BLOG ================== */
+
+#front-end-post-form ul.cmb2-checkbox-list li {
+    margin: 0px 0px 4px 2px;
+}
+
+/* Pending Posts */
+
+.disputo-delete-post-btn {
+    right: auto;
+    left: 0;
+}
+
+.disputo-pending-img {
+    padding-left: 15px;
+    padding-right: 0;
+}
+
+/* ================= WIDGETS ================== */
+
+.disputo-statistics {
+    padding-right: 0;
+    padding-left: 0.5rem;
+}
+
+/* Login */
+
+.bbp_widget_login .bbp-login-links a {
+    margin-left: 0.5rem;
+    margin-right: 0;
+}
+
+.bbp-submit-wrapper {
+    text-align: left;
+}
+
+/* ================= MEDIA ================== */
+
+@media only screen and (max-width: 991px) {
+    .disputo-forum-left {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .bbp-pagination,
+    .bbp-pagination-count,
+    .bbp-pagination-links {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .disputo-replies-content-bar,
+    .disputo-replies-content-bar-left,
+    .disputo-replies-content-bar-right {
+        text-align: center;
+    }
+}

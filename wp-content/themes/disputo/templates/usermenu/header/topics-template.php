@@ -1,0 +1,1 @@
+<a class="dropdown-item" href="<?php bbp_user_topics_created_url(wp_get_current_user()->ID); ?>"><?php esc_html_e( 'Topics Started', 'disputo' ); ?></a>

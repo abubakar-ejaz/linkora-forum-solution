@@ -1,0 +1,89 @@
+.disputo-iframe-outer {
+    max-width:600px;
+    display: block;
+}
+
+.disputo-iframe {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.disputo-iframe.Twitter {
+    padding-bottom: 0;
+    height: auto;
+    overflow: auto;
+}
+
+.disputo-iframe iframe,
+.disputo-iframe object,
+.disputo-iframe embed,
+.disputo-iframe video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: none;
+}
+
+.lead {
+    font-size:120% !important;
+    font-style: italic !important;
+}
+
+.text-primary {
+    color: #364253 !important;
+}
+
+a.text-primary:hover,
+a.text-primary:focus {
+    color: #2a3441 !important;
+}
+
+.text-success {
+    color: #00a9a5 !important;
+}
+
+a.text-success:hover,
+a.text-success:focus {
+    color: #00938e !important;
+}
+
+.text-info {
+    color: #1d84b5 !important;
+}
+
+a.text-info:hover,
+a.text-info:focus {
+    color: #0076ad !important;
+}
+
+.text-warning {
+    color: #eca72c !important;
+}
+
+a.text-warning:hover,
+a.text-warning:focus {
+    color: #ed9909 !important;
+}
+
+.text-danger {
+    color: #ff5a5f !important;
+}
+
+a.text-danger:hover,
+a.text-danger:focus {
+    color: #ff3037 !important;
+}
+
+.text-light {
+    color: #ccc !important;
+}
+
+a.text-light:hover,
+a.text-light:focus {
+    color: #ccc !important;
+}

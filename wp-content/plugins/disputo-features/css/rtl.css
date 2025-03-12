@@ -1,0 +1,302 @@
+.disputo-user-msg-btn {
+    text-align: left;
+}
+
+.mr-1,
+.mx-1 {
+    margin-left: .25rem !important;
+    margin-right: 0 !important;
+}
+
+.solved-topic-bar .badge {
+    margin-right:0.5rem;
+    margin-left:0;
+}
+
+.fa-check-circle.text-success {
+    margin-right:0;
+    margin-left:5px;
+}
+
+/* ================= FOLLOW USER ================== */
+
+.bbpf_topic_content div.bbpf_topic_content_btn {
+    text-align: left;
+}
+
+.bbpf_followers,
+.bbpf_following {
+    border-right: none;
+    border-left: 1px solid #ddd;
+}
+
+.follow_box_container .bbpf_load_container {
+    margin-right: auto;
+    margin-left: 0.5rem;
+}
+
+.bbpf_msg_unfollow {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.bbpf_follow_state {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.bbpf_topic_title:after,
+.bbpf_topic_title:before {
+    right: auto;
+    left:100%;
+}
+
+.bbpf_topic_title:after {
+    border-right-color: rgba(136, 183, 213, 0);
+    border-left-color: #f1f1f1;
+}
+
+.bbpf_topic_title:before {
+    border-right-color: rgba(221, 221, 221, 0);
+    border-left-color: #dddddd;
+}
+
+/* ================= CALL TO ACTION ================== */
+
+.disputo-action-wrapper.vertical,
+.disputo-action-wrapper.vertical .disputo-action-left,
+.disputo-action-wrapper.vertical .disputo-action-right {
+    text-align: right;
+}
+
+.disputo-action-right {
+    padding-right: 40px;
+    padding-left: 0px;
+    text-align: left;
+}
+
+.disputo-action-left {
+    text-align: right;
+}
+
+
+/* ================= FORUM ================== */
+
+.disputo-forum-widget-left {
+    text-align: right;
+}
+
+.disputo-forum-widget-right {
+    text-align: left;
+}
+
+
+/* ================= STATISTIC ================== */
+
+.disputo-statistic-icon-inner {
+    text-align: center;
+}
+
+.disputo-statistic-icon span {
+    text-align: center;
+}
+
+.disputo-statistic-title,
+.disputo-statistic-number {
+    text-align: left;
+    padding-left: 0px;
+    padding-right: 15px;
+}
+
+
+/* ================= POST LIST ================== */
+
+.disputo-post-list-left {
+    padding-right: 0;
+    padding-left: 15px;
+}
+
+.disputo-post-list-info i,
+.disputo-post-list-meta i {
+    margin-right: 0;
+    margin-left: 4px;
+}
+
+.disputo-post-list-meta span {
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+
+/* ================= ACCORDION ================== */
+
+.mp-accordion-title:after {
+    right: auto;
+    left: 30px;
+}
+
+.mp-accordion-title span {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+
+/* ================= FAQ ================== */
+
+.disputo-faq-cat-title {
+    padding: 30px 30px 30px 60px;
+}
+
+.disputo-faq-cat-title span {
+    right: auto;
+    left: 30px;
+}
+
+#disputo-live-search-container .disputo-live-search-icon:before {
+    right: auto;
+    left: 18px;
+}
+
+
+/* ================= CAROUSEL ================== */
+
+.disputo-carousel-title {
+    padding-left: 140px;
+    padding-right: 0px;
+}
+
+.disputo-carousel-view-more {
+    left: 0px;
+    right: auto;
+    padding-left: 60px;
+    padding-right: 0px;
+}
+
+.disputo-carousel-view-more .fa {
+    display: none;
+}
+
+.disputo-carousel-view-more a {
+    border-left: 1px solid #222;
+    border-right: none;
+}
+
+.disputo-carousel .slick-prev {
+    right: auto !important;
+    left: 30px !important;
+}
+
+
+/* ================= POST SLIDER ================== */
+
+.disputo-slider .slick-next {
+    left: 20px !important;
+    right: auto !important;
+}
+
+.disputo-slider .slick-prev {
+    right: auto !important;
+    left: 66px !important;
+}
+
+.disputo-slider-forum-meta {
+    left: auto;
+    right: 15px;
+}
+
+
+/* ================= VIEW ALL ================== */
+
+.disputo-view-more {
+    text-align: left;
+}
+
+
+/* ================= MEDIA QUERIES ================== */
+
+@media only screen and (max-width: 991px) {
+    .disputo-action-wrapper,
+    .disputo-action-left,
+    .disputo-action-right {
+        display: block;
+        width: 100%;
+        text-align: right;
+    }
+    .bbpf_topic_title:after, .bbpf_topic_title:before {
+        bottom: 100%;
+        top:auto;
+        left: 50%;
+        right:auto;
+    }
+
+    .bbpf_topic_title:after {
+        border-color: rgba(136, 183, 213, 0);
+        border-bottom-color: #f1f1f1;
+        border-width: 10px;
+        margin-left: -10px;
+        margin-top: 0;
+    }
+
+    .bbpf_topic_title:before {
+        border-color: rgba(221, 221, 221, 0);
+        border-bottom-color: #dddddd;
+        border-width: 11px;
+        margin-left: -11px;
+        margin-top: 0;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .disputo-slider-forum-meta {
+        top: 10px;
+        right: 10px;
+    }
+    .disputo-slider .slick-prev,
+    .disputo-slider .slick-next {
+        top: 10px;
+    }
+    .disputo-slider .slick-prev,
+    .disputo-slider .slick-next {
+        width: 30px;
+        height: 30px;
+    }
+    .disputo-slider .slick-prev:before,
+    .disputo-slider .slick-next:before {
+        font-size: 16px;
+    }
+    .disputo-slider .slick-next {
+        left: 10px !important;
+    }
+    .disputo-slider .slick-prev {
+        right: auto !important;
+        left: 40px !important;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .disputo-view-more {
+        text-align: center;
+    }
+    .disputo-view-more a {
+        display: block;
+    }
+    body.disputo .disputo-carousel {
+        padding: 50px 0px 0px 0px;
+    }
+    .disputo-slider-desc {
+        margin: -20px 10px 20px 10px;
+        padding: 20px;
+    }
+    .mp-accordion-title:after {
+        right: auto;
+        left: 20px;
+    }
+    .disputo-faq-cat-title {
+        padding: 20px 20px 20px 50px;
+    }
+    .disputo-faq-cat-title span {
+        top: 20px;
+        left: 20px;
+        right: auto;
+    }
+}

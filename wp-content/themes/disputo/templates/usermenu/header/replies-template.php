@@ -1,0 +1,1 @@
+<a class="dropdown-item" href="<?php bbp_user_replies_created_url(wp_get_current_user()->ID); ?>"><?php esc_html_e( 'Replies Created', 'disputo' ); ?></a>

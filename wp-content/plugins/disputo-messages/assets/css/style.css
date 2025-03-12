@@ -1,0 +1,212 @@
+/* ================= GENERAL ================== */
+
+.BPT-content textarea {
+    min-height: 200px;
+}
+
+.bbpm-list {
+    list-style: none;
+    margin: 1.5rem 0;
+    padding: 0px;
+}
+
+.bbpm-list li {
+    display: block;
+    margin: 0;
+    padding: 0px;
+}
+
+.bbpm-errors {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.bbpm-errors li {
+    padding: 1rem;
+    background: #f1f1f1;
+    border-left: 3px solid #1d84b5;
+    display: block;
+    margin: 0 0 1.5rem 0;
+}
+
+.bbpm-chat-settings label {
+    display:block;
+}
+
+.msg-name-input {
+    margin-bottom:1.5rem;
+    display: none !important;
+}
+
+.bbpm-new .msg-name-input {
+    display: block !important;
+}
+
+/* ================= USER RESULTS ================== */
+
+.bbpm-navlinks,
+.bbpm-search-form {
+    margin-bottom: 1.5rem;
+}
+
+.bbpm-user-results {
+    list-style: none;
+    margin: 1.5rem 0;
+    padding: 0px;
+}
+
+.bbpm-user-results li {
+    display: block;
+    margin: 0;
+    padding: 0px;
+}
+
+.bbpm-user-results li img {
+    border-radius: 100%;
+    margin: 0px 0.2rem;
+}
+
+/* ================= USER LOOP ================== */
+
+.bbpm-user-loop {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    border: 1px solid #ddd;
+    background: #fff;
+    padding: 20px 10px;
+    cursor: pointer;
+}
+
+.bbpm-user-loop:hover {
+    border-color: #1d84b5;
+}
+
+.bbpm-user-loop.no-link {
+    cursor: auto;
+}
+
+.bbpm-user-loop.no-link:hover {
+    border-color: #ddd;
+}
+
+.bbpm-icon,
+.bbpm-details {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.bbpm-icon {
+    width: 100px;
+    padding: 0px 10px;
+}
+
+.bbpm-icon img {
+    width: 100%;
+    height: auto;
+}
+
+.bbpm-details {
+    padding: 0px 10px;
+}
+
+.bbpm-details h5,
+.bbpm-details p {
+    margin-bottom: 10px;
+}
+
+.bbpm-user-meta {
+    font-size: 80%;
+}
+
+/* ================= NEW MESSAGE ================== */
+
+.bbpm-new-avatar {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    background: #f1f1f1;
+}
+
+.bbpm-new-avatar-left,
+.bbpm-new-avatar-right {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.bbpm-new-avatar-left {
+    width: 100px;
+}
+
+.bbpm-new-avatar-left img {
+    width: 100%;
+    height: auto;
+}
+
+.bbpm-new-avatar-right {
+    width: 100%;
+    padding: 0 1.5rem;
+}
+
+.bbpm-new-avatar-right h3 {
+    margin: 0;
+}
+
+/* ================= SINGLE CHAT ================== */
+
+.bbpm-chat-links,.bbpm-mark-unread {
+    margin-bottom: 1.5rem;
+}
+
+/* ================= PAGINATION ================== */
+
+.bbpm-pagi {
+    display: block;
+}
+
+.bbpm-pagi .page-numbers {
+    padding: 0.5rem 0.75rem;
+    line-height: 1.25;
+    color: #fff;
+    background-color: #364253;
+    border: 0px !important;
+    display: inline-block;
+    margin: 0;
+}
+
+.bbpm-pagi .page-numbers:hover {
+    background-color: #293754;
+}
+
+.bbpm-pagi .page-numbers.current,
+.bbpm-pagi .page-numbers.current:hover {
+    background-color: #1d84b5;
+}
+
+/* ================= MEDIA ================== */
+
+@media only screen and (max-width: 576px) {
+    .bbpm-new-avatar-new,
+    .bbpm-new-avatar-right,
+    .bbpm-new-avatar-left {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+
+    .bbpm-new-avatar-right {
+        margin-bottom: 1.5rem;
+    }
+
+    .bbpm-new-avatar-left img {
+        width: 60px;
+        height: auto;
+        margin: 1rem auto;
+    }
+    .bbpm-errors li,.bbpm-new-avatar {
+        background: #fff;
+    }
+}

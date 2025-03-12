@@ -1,0 +1,205 @@
+@font-face {
+    font-family: 'fontello';
+    src: url(../font/fontello.eot?63585644);
+    src: url(../font/fontello.eot?63585644#iefix) format("embedded-opentype"), url(../font/fontello.woff?63585644) format("woff"), url(../font/fontello.ttf?63585644) format("truetype"), url(../font/fontello.svg?63585644#fontello) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+    font-family: "fontello";
+    font-style: normal;
+    font-weight: 400;
+    speak: none;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    margin-left: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon-thumbs-up-1:before {
+    content: '\e800'
+}
+
+.icon-thumbs-down-1:before {
+    content: '\e801'
+}
+
+.icon-thumbs-down-alt:before {
+    content: '\e802'
+}
+
+.icon-thumbs-up-alt:before {
+    content: '\e803'
+}
+
+.icon-thumbs-down:before {
+    content: '\e804'
+}
+
+.icon-thumbs-up:before {
+    content: '\e805'
+}
+
+.icon-thumbs-down-3:before {
+    content: '\e806'
+}
+
+.icon-thumbs-up-3:before {
+    content: '\e807'
+}
+
+.icon-thumbs-down-4:before {
+    content: '\e808'
+}
+
+.icon-thumbs-up-4:before {
+    content: '\e809'
+}
+
+.icon-thumbs-down-2:before {
+    content: '\e80a'
+}
+
+.icon-thumbs-up-2:before {
+    content: '\e80b'
+}
+
+.icon-plus-circled:before {
+    content: '\e80c'
+}
+
+.icon-plus:before {
+    content: '\e80d'
+}
+
+.icon-minus:before {
+    content: '\e80e'
+}
+
+.icon-minus-circled:before {
+    content: '\e80f'
+}
+
+.icon-down:before {
+    content: '\e810'
+}
+
+.icon-down-big:before {
+    content: '\e811'
+}
+
+.icon-up:before {
+    content: '\e812'
+}
+
+.icon-up-big:before {
+    content: '\e813'
+}
+
+.icon-heart:before {
+    content: '\e814'
+}
+
+.icon-heart-broken:before {
+    content: '\e815'
+}
+
+.icon-star-empty:before {
+    content: '\e816'
+}
+
+.icon-star:before {
+    content: '\e817'
+}
+
+.icon-cancel-circle:before {
+    content: '\e818'
+}
+
+.icon-cancel:before {
+    content: '\e819'
+}
+
+.icon-ok-circle:before {
+    content: '\e81a'
+}
+
+.icon-ok:before {
+    content: '\e81b'
+}
+
+.disputo-container-like,
+.disputo-container-dislike,
+.disputo-container-like-comment,
+.disputo-container-dislike-comment {
+    font-weight: 700;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition: color .2s ease-in-out;
+    -moz-transition: color .2s ease-in-out;
+    transition: color .2s ease-in-out;
+}
+
+.disputo-p-like-active,
+.disputo-p-like:hover,
+.disputo-p-dislike-active,
+.disputo-p-dislike:hover,
+.disputo-p-like-active-comment,
+.disputo-p-like-comment:hover,
+.disputo-p-dislike-active-comment,
+.disputo-p-dislike-comment:hover {
+    cursor: pointer;
+    color: #3498DB;
+}
+
+div.disputo-p-like,div.disputo-p-like-comment,
+div.disputo-p-dislike,div.disputo-p-dislike-comment {
+    line-height: 34px;
+    padding: 0px 8px 0px 8px;
+}
+
+/* Comments */
+
+.disputo_comment .disputo-container-vote-comment {
+    display:block;
+    text-align:right;
+    margin-top:0.75rem;
+}
+.disputo_comment .disputo-container-vote-comment-inner {
+    display:inline-block;
+    border:1px solid #ddd;
+}
+
+/* Posts */
+
+.disputo-post-content .disputo-container-vote {
+    display:block;
+    text-align:right;
+    margin-top:1.5rem;
+}
+.disputo-post-content .disputo-container-vote-inner {
+    display:inline-block;
+    border:1px solid #ddd;
+}
+
+/* bbPress */
+
+.disputo-replies-content .disputo-container-vote {
+    display:block;
+    text-align:right;
+    margin-top:1.5rem;
+}
+.disputo-replies-content .disputo-container-vote-inner {
+    display:inline-block;
+    border:1px solid #ddd;
+    background: #f1f1f1;
+}

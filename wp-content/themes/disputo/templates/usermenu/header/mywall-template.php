@@ -1,0 +1,1 @@
+<?php do_action('disputo_mywall_link'); ?>

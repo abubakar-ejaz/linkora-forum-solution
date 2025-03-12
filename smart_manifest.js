@@ -1,0 +1,1 @@
+{"name":"Linkora","short_name":"Linkora","start_url":"https:\/\/linkora.ai\/","display":"standalone","icons":[{"src":"","sizes":"192x192"}],"gcm_sender_id":"","\/\/":"gcm_user_visible_only is only needed until Chrome 44 is in stable ","gcm_user_visible_only":true}

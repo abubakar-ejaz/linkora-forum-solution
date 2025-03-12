@@ -1,0 +1,4542 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: disputo/comments.php:33
+msgid "%1$d %2$s for \"%3$s\""
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:622
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: disputo/templates/usermenu/user/engagements-template.php:4
+msgid "%s's Engagements"
+msgstr ""
+
+#. Text in function
+#: disputo/templates/usermenu/user/favorites-template.php:4
+msgid "%s's Favorites"
+msgstr ""
+
+#. Text in function
+#: disputo/templates/usermenu/user/profile-template.php:3
+msgid "%s's Profile"
+msgstr ""
+
+#. Text in function
+#: disputo/templates/usermenu/user/replies-template.php:3
+msgid "%s's Replies Created"
+msgstr ""
+
+#. Text in function
+#: disputo/templates/usermenu/user/subscriptions-template.php:5
+msgid "%s's Subscriptions"
+msgstr ""
+
+#. Text in function
+#: disputo/templates/usermenu/user/topics-template.php:3
+msgid "%s's Topics Started"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-chat.php:16
+msgid "&laquo; Back to chats"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:233
+msgid "&nbsp;<em class=\"bbpm-inline-tooltip\">[pending-delete]</em>"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:622
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "(Facebook API is required)."
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:131
+msgid "- Transients:"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:130
+msgid "- WP Object Cache:"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+msgid "1 Column"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "1 Column (Masonry Grid)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "1300x650 px"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "150px"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+msgid "2 Column"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "2 Column (Masonry Grid)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+msgid "3 Column"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "3 Column (Masonry Grid)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "300px"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+msgid "4 Column"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "4 Column (Masonry Grid)"
+msgstr ""
+
+#. Text in echo
+#: disputo/404.php:10
+msgid "404 - Page not found"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+msgid "5 Column"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "5 Column (Masonry Grid)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "512px"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "640x480 px"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "<strong>ERROR</strong>: There was a problem reporting the reply."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "<strong>ERROR</strong>: There was a problem reporting the topic."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "<strong>ERROR</strong>: There was a problem unmarking the reply as reported."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "<strong>ERROR</strong>: There was a problem unmarking the topic as reported."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Admin.php:1
+msgid "<strong>bbPress Messages error</strong>: database error, the main database table was not inserted correctly. If you have just updated the plugin, please deactivate it and activate it once again, otherwise, please consult the support forums for help."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:1
+msgid "<strong>bbPress Messages v2:</strong> Import older messages now from legacy data table. Click <a href=\"%1$s\">here</a> to begin import or <a href=\"%2$s\">dismiss</a> this notice."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "A simple call-to-action widget"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-accordion/disputo-accordion.php:1
+msgid "Accordion"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-accordion/disputo-accordion.php:1
+msgid "Accordion item"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:98
+msgid "Account"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "Activate Playlist"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Active"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Add Another Code"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Add Another Icon"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Add Another Image"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets.php:1
+msgid "Add Border"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Add Forum Signatures to User Profile Headers"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/myblog.php:44
+msgid "Add New Post"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets.php:1
+msgid "Add Shadow"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets.php:1
+msgid "Add border to the widget."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "Add new category"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "Add new question"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets.php:1
+msgid "Add shadow to the row."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/bbpress/form-user-edit.php:18
+msgid "Additional Fields"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Additional Menu Items (High)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Additional Menu Items (Low)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Additional Menu Items (Medium)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Additional User Menu Items"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:1
+msgid "Ads Manager"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "After Forum Index"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "After Lead Topic"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "After Search Results"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "After Single Blog Post"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "After Single Forum"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "After Single Topic"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/user-profile.php:75
+msgid "Age"
+msgstr ""
+
+#. Text in function
+#: disputo/author.php:13
+msgid "All posts by"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Core/integrate.php:50
+msgid "Allow email notifications of new messages"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Allow only verified users the ability to submit post."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Allow your members the ability to upload media files to their posts."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Allow your members the ability to use HTML tags."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Alphabetical ASC (All Users)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Alphabetical DESC (All Users)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Amazon"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Android"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Messages.php:1
+msgid "Anonymous"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "Answer"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "Api Key (Required)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Apple"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/form-coupon.php:36
+#: disputo/woocommerce/cart/cart.php:142
+msgid "Apply coupon"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Archive"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Archive Page Pagination"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Archive page layout"
+msgstr ""
+
+#. Text in echo
+#: disputo/includes/social-icons.php:39
+msgid "Are you sure you want to delete all icons?"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-settings.php:67
+msgid "Are you sure you want to proceed?"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-settings.php:19
+msgid "Assign a name to this chat"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Author Box"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Author Page Pagination"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Author page layout"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:143
+msgid "Auto-delete older messages"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Autoplay Duration (Seconds)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Autoplay on"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Available Social Media Buttons"
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/cart/cart.php:121
+msgid "Available on backorder"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Avatar"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Before Footer"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Before Forum Index"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Before Lead Topic"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Before Search Results"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Before Single Blog Post"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Before Single Forum"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Before Single Topic"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:99
+msgid "Begin Import"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Behance"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbp-solved-topic.php:163
+msgid "Best Answer"
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/myaccount/my-address.php:1
+msgid "Billing address"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:89
+#: disputo/bbpress/user-profile.php:108
+msgid "Biographical Info"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Biography"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/bbp-functions.php:380
+#: disputo/includes/kirki.php:1
+msgid "Blocked"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Blocked Badge Color"
+msgstr ""
+
+#. Text in echo
+#: disputo/index.php:14
+#: disputo/includes/kirki.php:1
+#: disputo/bbpress/user-profile.php:125
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Blog Page Template - 1 Column"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Blog Page Template - 2 Column"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Blog Page Template - 3 Column"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Blog Page Template - 4 Column"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Blog Templates"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Body"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-chat.php:74
+msgid "Bulk Actions"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Button Alignment"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Button Background Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Button Background Hover Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Button Color"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Button Settings"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Button Style"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Button Text"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-rating-system/rating_system_admin.php:35
+msgid "Button style"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "CLICK HERE"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:115
+msgid "Cache Settings"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:120
+msgid "Cache context:"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/new.php:66
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+msgid "Carousel Settings"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: disputo/includes/bbp-functions.php:342
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Category, archive and search pages"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:185
+msgid "Changes saved successfully!"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-chat.php:20
+msgid "Chat Options"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-settings.php:12
+msgid "Chat Settings"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:233
+msgid "Chat name..."
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-settings.php:17
+msgid "Chat name:"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:66
+msgid "Chats per page:"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Circle"
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/checkout/form-coupon.php:29
+msgid "Click here to enter your code"
+msgstr ""
+
+#. Text in echo
+#: disputo/includes/bbp-functions.php:378
+msgid "Closed"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Code {#}"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Code:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Codepen"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-divider/disputo-divider.php:1
+msgid "Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Color Scheme"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+msgid "Columns"
+msgstr ""
+
+#. Text in echo
+#: disputo/comments.php:7
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+msgid "Contact Form 7"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/form-coupon.php:34
+#: disputo/woocommerce/cart/cart.php:139
+msgid "Coupon code"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Cover Image"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Cover Image Overlay"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Credits"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:129
+msgid "Current cache status:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+msgid "Custom Login Page Customizer"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Custom Lost Password URL (Optional)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Custom Register URL (Optional)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Custom Role Names"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+msgid "DV Shortcode Whitelist"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Danger"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Dark"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Data Order by"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:103
+msgid "Database table %s successfully deleted."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Date of Birth"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/thankyou.php:51
+msgid "Date:"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:233
+msgid "Dear %1$s,
+%2$s has recently sent you new messages on %3$s:
+
+\"%4$s\"
+
+To read and reply to this message, click the link below:
+%5$s
+
+To unsubscribe from notifications from this chat, follow below-link:
+%6$s
+
+To unsubscribe from all notifications, please navigate to your profile edit screen."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default Blog Subtitle (Optional)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default Browser Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default Header Cover Image"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default Link Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default Link Hover Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default Shop Cover Image"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default User Post Status"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default avatar"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default avatar must be selected as \"Disputo Avatar\" (Go to Settings -> Discussion -> Default Avatar)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Default bbPress Cover Image"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-chat.php:75
+msgid "Delete"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:95
+msgid "Delete <code>%s</code> legacy database table after import done"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-settings.php:44
+msgid "Delete Chat"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:134
+msgid "Delete transients from database:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Delicious"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Destination URL"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Destination URL:"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Destination Url"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Destination Url (To disable button, leave it blank)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Deviantart"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Digg"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Disable"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Dislikes"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:51
+msgid "Display Name"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Display Search Box"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+msgid "Displays a bbPress reply"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-divider/disputo-divider.php:1
+msgid "Displays a horizontal line"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Displays a site statistic"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-tabs/disputo-tabs.php:1
+msgid "Displays a tabs"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-accordion/disputo-accordion.php:1
+msgid "Displays an accordion"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+msgid "Displays bbPress forums"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+msgid "Displays bbPress topics"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Displays forums, posts, products or pages in a slider"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+msgid "Displays forums, topics, replies, posts, products or pages in a carousel"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Displays forums, topics, replies, posts, products or pages in a list"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+msgid "Displays forums, topics, replies, products, posts or pages in a grid"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-populartopics/disputo-populartopics.php:1
+msgid "Displays popular topics"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Displays users in a masonry grid"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "Displays your You Tube Channel Videos"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-accordion/disputo-accordion.php:1
+msgid "Disputo Accordion"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:1
+msgid "Disputo Ads Manager"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Disputo Call to Action"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+msgid "Disputo Carousel"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-divider/disputo-divider.php:1
+msgid "Disputo Divider"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+msgid "Disputo Features"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+msgid "Disputo Forums"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-features.php:1
+msgid "Disputo Hero Image"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Disputo List"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+msgid "Disputo Masonry"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+msgid "Disputo Messages"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Screen.php:1
+msgid "Disputo Messages Settings"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-populartopics/disputo-populartopics.php:1
+msgid "Disputo Popular Topics"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+#: disputo/plugins/disputo-rating-system/rating_system_admin.php:1
+msgid "Disputo Rating System"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+msgid "Disputo Reply"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Disputo Single Statistic"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Disputo Slider"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-tabs/disputo-tabs.php:1
+msgid "Disputo Tabs"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-features.php:1
+msgid "Disputo Thumbnail"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+msgid "Disputo Topics"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Disputo Users"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets.php:1
+msgid "Disputo Widgets"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "Disputo You Tube TV"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Dribbble"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Dropdown Menu Background Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Dropdown Menu Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Dropdown Menu Width (em)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Each row is a new menu item."
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/myaccount/my-address.php:46
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: disputo/templates/usermenu/user/editprofile-template.php:4
+msgid "Edit %s's Profile"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/templates/usermenu/user/editprofile-template.php:4
+#: disputo/templates/usermenu/header/editprofile-template.php:
+msgid "Edit Profile"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "Edit question"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/kirki.php:1
+#: disputo/bbpress/form-user-edit.php:114
+#: disputo/plugins/disputo-features/social-media.php:16
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/myaccount/form-login.php:80
+msgid "Email address"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:90
+msgid "Email body:"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:78
+msgid "Email subject:"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/thankyou.php:57
+msgid "Email:"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/content-statistics.php:73
+msgid "Empty Topic Tags"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Enable"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Enable Ads Manager"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Enable Custom Avatar"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Enable Custom Cover Image"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Enable Flags"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Enable Forum Signature"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Enable Live Search"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Enable Social Icons"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-rating-system/rating_system_admin.php:35
+msgid "Enable bbPress support"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/templates/usermenu/user/engagements-template.php:4
+#: disputo/templates/usermenu/header/engagements-template.php:2
+msgid "Engagements"
+msgstr ""
+
+#. Text in echo
+#: disputo/searchform.php:4
+#: disputo/templates/searchlg-template.php:4
+#: disputo/templates/bbpresslg-template.php:5
+#: disputo/templates/bbpresslg-template.php:15
+#: disputo/plugins/disputo-features/faq-search.php:2
+msgid "Enter a keyword..."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Error occured processing your request."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:103
+msgid "Error occured, no messages were imported."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:1
+msgid "Error: Bad authentication!"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:103
+msgid "Error: Could not delete database table %s."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Error: Could not find a chat ID for this message!"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Error: Could not find a sender for this message!"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Error: Could not find chat!"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Error: Invalid bulk action!"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Error: Invalid recipient specified!"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Error: Please select at least 1 message for this action!"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Etsy"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/social-icons.php:50
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Example; http://www.egemenerd.com"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Example; http://www.facebook.com"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Exclude pages from blog search results"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Exclude users by ID"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:130
+msgid "External object cache is available"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:130
+msgid "External object cache is not available"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "FAQ"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "FAQ Categories"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "FAQ Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "FAQ Sidebar is displayed only on FAQ page."
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-forums.php:22
+#: disputo/bbpress/loop-topics.php:22
+msgid "FRESHNESS"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:25
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Facebook APP ID (REQUIRED)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Facebook Comments"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Fade Animation"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/user-favorites.php:16
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/templates/usermenu/user/favorites-template.php:4
+#: disputo/templates/usermenu/header/favorites-template.php:
+msgid "Favorites"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "Featured Image"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/bbpress/user-profile.php:92
+msgid "Female"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Fields (Masonry Grid)"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:36
+msgid "First Name"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "First Overlay Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Flag"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Flickr"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Follow User"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Font Color"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Font Size (rem)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+#: disputo/includes/kirki.php:1
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/social-icons.php:1
+msgid "Footer Icons"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "For more information, please read the help documentation."
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-search-forum.php:14
+#: disputo/bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Forum & Topic Badges"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/so-custom-fields/forum-select.class.php:16
+msgid "Forum Index"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/user-replies-created.php:16
+msgid "Forum Replies Created"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-roles.php:18
+#: disputo/bbpress/user-profile.php:30
+msgid "Forum Role"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Forum Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Forum Signature"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/user-topics-created.php:16
+msgid "Forum Topics Started"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/content-statistics.php:28
+msgid "Forums"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Forums (BbPress)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Four Columns"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Foursquare"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Front-End Post Submission"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Full"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-divider/disputo-divider.php:1
+msgid "Full Width Column"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/bbpress/user-profile.php:88
+msgid "Gender"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "General"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-settings.php:32
+msgid "Get email notifications about new messages in this chat"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Github"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Give your members the ability to create blog posts."
+msgstr ""
+
+#. Text in echo
+#: disputo/templates/socialicons-template.php:29
+msgid "Go to Top"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Google"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Google +"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:138
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "HTML Editor"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:106
+msgid "Hackernews"
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/checkout/form-coupon.php:29
+msgid "Have a coupon?"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Header"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Header Background Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Header Buttons"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Header Sub Title"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Header Title"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Header Vertical Padding"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Header Vertical Padding (Mobile)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-populartopics/disputo-populartopics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Heading"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-populartopics/disputo-populartopics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Heading 1"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-populartopics/disputo-populartopics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Heading 2"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-populartopics/disputo-populartopics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Heading 3"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-populartopics/disputo-populartopics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Heading 4"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-populartopics/disputo-populartopics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Heading 5"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-populartopics/disputo-populartopics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Heading 6"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Heading Color"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-populartopics/disputo-populartopics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Heading Level"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Headings"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "Height (px)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:233
+msgid "Hello"
+msgstr ""
+
+#. Text in echo
+#: disputo/includes/bbp-functions.php:357
+#: disputo/includes/kirki.php:1
+msgid "Hidden"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/content-statistics.php:99
+msgid "Hidden Replies"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/content-statistics.php:86
+msgid "Hidden Topics"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+msgid "Hide Breadcrumb (Forum Index)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+msgid "Hide Search Box (Forum Index)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+msgid "Hide Thumbnails (Forum Index)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Hide featured image"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "High"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Horizontal"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "How to get a You Tube API key?"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Icon"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Icon Background Color"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Icon Color"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Icon Container Size (px)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Icon Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Icon {#}"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "If you add a custom url, the login form will be disabled."
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:87
+msgid "If you have already imported messages using this tool, please dismiss this as it will not prevent duplicate records from inserting."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Image Size"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Image {#}"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Image:"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:103
+msgid "Import done: successfully imported %1$d messages from %2$d total (IDs from %3$d to %4$d)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:85
+msgid "Import older messages from legacy database table <code>%s</code>."
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-search-reply.php:26
+msgid "In reply to: "
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Info"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Info Badge Background Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Info Badge Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Info Button Background Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Info Button Background Hover Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Info Button Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Instagram"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Invalid user! Please search and select a recipient below."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/bbp-functions.php:380
+#: disputo/includes/kirki.php:1
+msgid "Keymaster"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Keymaster Badge Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+msgid "Kirki"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:104
+msgid "Language"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Large"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:40
+msgid "Last Name"
+msgstr ""
+
+#. Text in function
+#: disputo/bbpress/loop-search-forum.php:30
+msgid "Last updated %s"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Lastfm"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Lead Topic Layout"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Lead topic layout must be enabled."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Light"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Likes"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Limit"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Limit The Length of Topic Description"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Limit The Length of Topic Title"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Link Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Link Hover Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Link:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:43
+msgid "Linkedin"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Live search show at most"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/bbpress/user-profile.php:99
+msgid "Location"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/templates/header-template.php:33
+#: disputo/woocommerce/myaccount/form-login.php:29
+#: disputo/woocommerce/myaccount/form-login.php:48
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Login Button"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Login Button Text"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Login Button URL (Optional)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Logo Height"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Logo Width (Mobile Mode)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/templates/usermenu/user/logout-template.php:4
+#: disputo/templates/usermenu/header/logout-template.php:
+msgid "Logout"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Lost Password Link"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Lost Password Text"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/templates/header-template.php:61
+msgid "Lost Password?"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/myaccount/form-login.php:54
+msgid "Lost your password?"
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/myaccount/form-lost-password.php:28
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Low"
+msgstr ""
+
+#. Text in function
+#: disputo/templates/header-template.php:14
+msgid "MENU"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "Main Menu"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "Main Sidebar is displayed on blog pages."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/bbpress/user-profile.php:92
+msgid "Male"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-divider/disputo-divider.php:1
+msgid "Margin Bottom"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-divider/disputo-divider.php:1
+msgid "Margin Top"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbp-solved-topic.php:1
+msgid "Mark as solved"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbp-solved-topic.php:1
+msgid "Mark as unsolved"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:1156
+msgid "Mark the reply as unreported"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "Mark the topic as unreported"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Maximum Topic Title Length"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Maximum excerpt length"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Maximum logo height in pixels on large screens."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Maximum logo width in pixels on mobile devices."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Maximum number of posts"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "Maximum number of the playlists"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Maximum number of the posts."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Maximum number of the products."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "Maximum number of the videos"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-forums/disputo-forums.php:1
+msgid "Maximum number of topics (Single Forum)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Maximum title length"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Media Upload"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Medium"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Menu Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Menu Item"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Menu item..."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-messages/disputo-messages.php:1
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+#: disputo/plugins/disputo-messages/Inc/Admin/Screen.php:1
+#: disputo/plugins/disputo-messages/templates/messages/chats.php:6
+msgid "Messages"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Messages (%d)"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:59
+msgid "Messages per page:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Minimal version of visual editor."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/bbp-functions.php:380
+#: disputo/includes/kirki.php:1
+msgid "Moderator"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Moderator Badge Color"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Most Replies"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Most Topics"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/myblog.php:1
+#: disputo/plugins/disputo-features/myblog.php:41
+msgid "My Blog"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "My Wall"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/thankyou.php:35
+msgid "My account"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/user-profile.php:64
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:136
+msgid "Network Role"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "New (All Users)"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/chats.php:17
+msgid "New Message"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "New Post"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "New category"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "New post requires a content."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "New post requires a title."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "New question"
+msgstr ""
+
+#. Text in function
+#: disputo/comments.php:21
+msgid "Newer comments"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Newest"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:47
+msgid "Nickname"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: disputo/search.php:15
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/tpl/disputo-users-template.php:407
+msgid "No Results Found"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/chats.php:59
+msgid "No chats have matched your search query, please try again with a different search term"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-chat.php:116
+msgid "No messages have matched your search query, please try again with a different search term"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/cart/mini-cart.php:81
+msgid "No products in the cart."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "No question found"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "No question found in trash"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/faq-search.php:6
+msgid "No results found."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Screen.php:1
+msgid "No tabs loaded yet."
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/new.php:57
+msgid "No users have matched your search query."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "None"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:74
+msgid "Notification email"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Number of Topics Per Load"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Number of Users Per Load"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Number of the comments"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Odnoklassniki"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-rating-system/rating_system_admin.php:35
+msgid "Off"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Old (All Users)"
+msgstr ""
+
+#. Text in function
+#: disputo/comments.php:18
+msgid "Older comments"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Oldest"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-rating-system/rating_system_admin.php:35
+msgid "On"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:89
+msgid "Once you click import, the plugin will begin fetching messages from older database table and appending them to the new one."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+msgid "One Click Demo Import"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "One Column + Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Online"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Only Verified Users"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Only for Verified Users"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Open in link in a new tab"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/social-icons.php:50
+msgid "Open links in a new tab"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-accordion/disputo-accordion.php:1
+msgid "Opened by default"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Order by"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/thankyou.php:46
+msgid "Order number:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Other Features"
+msgstr ""
+
+#. Text in echo
+#: disputo/includes/woo-functions.php:31
+msgid "Out of Stock"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Overlay"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "Page Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "Page Sidebar is displayed only on page-sidebar template."
+msgstr ""
+
+#. Text in function
+#: disputo/page_template_2.php:47
+#: disputo/page_template_3.php:48
+#: disputo/page_template_1.php:45
+#: disputo/single.php:52
+#: disputo/page.php:39
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:55
+msgid "Pagination"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Pagination (\"orderby\" must be Alphabetical, New or Old)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "Parent question:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/bbp-functions.php:380
+#: disputo/includes/kirki.php:1
+msgid "Participant"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Participant Badge Color"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/myaccount/form-login.php:40
+#: disputo/woocommerce/myaccount/form-login.php:87
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Paste your code snippet in the textbox above"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:84
+msgid "Patterns:<br/><code>%1$s</code>: Blog name,<br/><code>%2$s</code>: Chat/sender name"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:92
+msgid "Patterns:<br/><code>%1$s</code>: Current user name,<br/><code>%2$s</code>: Chat/sender name,<br/><code>%3$s</code>: blog name,<br/><code>%4$s</code>: message excerpt,<br/><code>%5$s</code>: chat url,<br/><code>%6$s</code>: chat settings url"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/thankyou.php:33
+msgid "Pay"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/thankyou.php:69
+msgid "Payment method:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Pending"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/myblog.php:50
+msgid "Pending Posts"
+msgstr ""
+
+#. Text in function
+#: disputo/comments.php:27
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:79
+msgid "Pinterest"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Placeholder Image"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:91
+msgid "Please make sure not to cancel the import by pressing the escape key, or browser refresh or back button, until it is fully done."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:97
+msgid "Pocket"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Popular Topic Widget Show at Most"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/bbp-functions.php:380
+msgid "Popular Topics"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/content-single-topic-lead.php:16
+msgid "Post"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "Post Content"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "Post Excerpt"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Post Meta Data"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Post Settings"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "Post Title"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Post date, categories, tags."
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-replies.php:17
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Posts"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/cart/cart.php:34
+#: disputo/woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Primary"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Primary Badge Background Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Primary Badge Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Primary Button Background Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Primary Button Background Hover Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Primary Button Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Priority"
+msgstr ""
+
+#. Text in echo
+#: disputo/includes/bbp-functions.php:347
+#: disputo/bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Private Reply"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/cart/cart.php:33
+#: disputo/woocommerce/cart/cart.php:76
+msgid "Product"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Product Thumbnail Size"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Product layout"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Products (Woocommerce)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/bbpress/form-user-edit.php:14
+#: disputo/bbpress/form-user-edit.php:26
+#: disputo/templates/usermenu/user/profile-template.php:3
+#: disputo/templates/usermenu/header/profile-template.php:
+msgid "Profile"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Published"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/myblog.php:47
+msgid "Published Posts"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:148
+msgid "Purge messages older than %s days. (leave empty to disable)"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/cart/cart.php:35
+#: disputo/woocommerce/cart/cart.php:102
+msgid "Quantity"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "Question"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-single-reply.php:41
+#: disputo/bbpress/content-single-topic-lead.php:43
+msgid "Quote"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Quote Topics & Replies"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-forums.php:21
+#: disputo/bbpress/loop-topics.php:21
+msgid "REPLIES"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-rating-system/metabox.php:1
+#: disputo/plugins/disputo-rating-system/rating_system_admin.php:1
+msgid "Rating System"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Recommended avatar size is 150x150 px."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:61
+msgid "Reddit"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/templates/header-template.php:61
+#: disputo/woocommerce/myaccount/form-login.php:64
+#: disputo/woocommerce/myaccount/form-login.php:97
+msgid "Register"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Register Link"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Register Text"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Register date"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/user-profile.php:132
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/tpl/disputo-users-template.php:357
+msgid "Registered"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Registered Users (BbPress)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Related Products"
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/single-product/related.php:25
+msgid "Related products"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/myaccount/form-login.php:50
+msgid "Remember me"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Remove Code"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Remove Icon"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Remove Image"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Remove Page Padding and Shadow"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Remove bbPress Breadcrumb"
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/cart/cart.php:121
+#: disputo/woocommerce/cart/mini-cart.php:42
+msgid "Remove this item"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-replies.php:19
+#: disputo/bbpress/content-statistics.php:50
+#: disputo/templates/xsforum-template.php:13
+#: disputo/templates/forum-template.php:13
+#: disputo/plugins/disputo-features/forum.php:26
+msgid "Replies"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Replies (BbPress)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/bbpress/loop-single-reply.php:89
+#: disputo/bbpress/content-single-topic-lead.php:91
+#: disputo/bbpress/user-profile.php:52
+#: disputo/templates/usermenu/user/replies-template.php:3
+#: disputo/templates/usermenu/header/replies-template.php:
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/tpl/disputo-users-template.php:361
+msgid "Replies Created"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/tpl/disputo-slider-template.php:33
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/tpl/disputo-list-template.php:66
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/tpl/disputo-list-template.php:75
+msgid "Replies:"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-search-reply.php:13
+msgid "Reply"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:1156
+msgid "Reply \"%1$s\" successfully unreported."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-reply/disputo-reply.php:1
+msgid "Reply ID"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "Report"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Report Content"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "Report inappropriate content"
+msgstr ""
+
+#. Text in echo
+#: disputo/includes/social-icons.php:39
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/myaccount/form-lost-password.php:39
+msgid "Reset password"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbp-solved-topic.php:163
+msgid "Resolved"
+msgstr ""
+
+#. Text in function
+#: disputo/search.php:15
+msgid "Result Found"
+msgstr ""
+
+#. Text in function
+#: disputo/search.php:15
+msgid "Results Found"
+msgstr ""
+
+#. Text in echo
+#: disputo/search.php:139
+msgid "Return Home"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Role"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Rounded"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/tpl/disputo-slider-template.php:39
+msgid "Sale!"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:131
+msgid "Same as WP Object Cache, performs external object caching"
+msgstr ""
+
+#. Text in function
+#: disputo/bbpress/form-user-edit.php:166
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:163
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:166
+#: disputo/plugins/disputo-messages/templates/messages/single-settings.php:56
+msgid "Save Changes"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-messages/templates/messages/chats.php:26
+#: disputo/plugins/disputo-messages/templates/messages/single-chat.php:30
+#: disputo/plugins/disputo-messages/templates/messages/new.php:33
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Search Box & Menu"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Search Box Text Color"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-search.php:15
+msgid "Search Forums..."
+msgstr ""
+
+#. Text in function
+#: disputo/page_template_4.php:25
+#: disputo/search.php:32
+msgid "Search Results for:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Search Sidebar"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/new.php:31
+msgid "Search and select a contact:"
+msgstr ""
+
+#. Text in echo
+#: disputo/templates/usersearchlg.php:3
+msgid "Search by name..."
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/product-searchform.php:27
+msgid "Search products..."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "Search questions"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-reply-search.php:18
+msgid "Search replies..."
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-topic-search.php:18
+msgid "Search topics..."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Second Overlay Color"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "Security check failed."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/templates/messages/single-chat.php:98
+msgid "Seen by %s"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Select Field:"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/so-custom-fields/forum-select.class.php:37
+msgid "Select Forum"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Select Icon"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Select Icon:"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Select Posts"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Select a field to display this ad."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-features.php:1
+msgid "Select a flag"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-accordion/disputo-accordion.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-tabs/disputo-tabs.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Select an icon"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/new.php:65
+msgid "Select recipient"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-chat.php:154
+#: disputo/plugins/disputo-messages/templates/messages/new.php:22
+msgid "Send"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:233
+msgid "Send %s a Message"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:233
+msgid "Send Message"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/templates/messages/new.php:10
+msgid "Send a new message to %s"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:106
+msgid "Send out HTML emails (mail headers setting)"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/class-bbp-private-replies.php:89
+msgid "Set as private reply"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/class-bbp-solved-topic.php:142
+msgid "Set author's post as best answer."
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/class-bbp-private-replies.php:85
+msgid "Set author's post as private."
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/class-bbp-solved-topic.php:161
+msgid "Set this post as solved."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Settings updated successfully!"
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/myaccount/my-address.php:1
+msgid "Shipping address"
+msgstr ""
+
+#. Text in echo
+#: disputo/templates/usermenu/header/shop-template.php:2
+msgid "Shop Account"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Shop Account (WooCommerce)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Shop page show at most"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Show Title"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Show title"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/templates/messages/chats.php:41
+#: disputo/plugins/disputo-messages/templates/messages/single-chat.php:45
+msgid "Showing search results for \"%s\":"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Sidebars"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Single Product Image Column Size in Percents"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Single Product Image Size"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+msgid "Siteorigin Panels"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Slack"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "Slider Settings"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Snapchat"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Social"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Social Media Icons"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Social Media Sharing"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Social Media Sharing Buttons"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Solved Topic & Best Answer"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Sorry, you cannot contact this user!"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Sorry, you cannot contact this user. Please search and select a recipient below."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Soundcloud"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/bbp-functions.php:380
+#: disputo/includes/kirki.php:1
+msgid "Spectator"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Spectator Badge Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Spotify"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Square"
+msgstr ""
+
+#. Text in function
+#: disputo/bbpress/loop-single-topic.php:60
+msgid "Started by: %1$s"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Statistic"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-single-reply.php:89
+#: disputo/bbpress/content-single-topic-lead.php:91
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/tpl/disputo-users-template.php:361
+msgid "Statistics"
+msgstr ""
+
+#. Text in echo
+#: disputo/includes/bbp-functions.php:373
+msgid "Sticky"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Stop Using Google CDN"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets.php:1
+msgid "Stretched Row"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "Submit Post"
+msgstr ""
+
+#. Text in function
+#: disputo/comments.php:13
+msgid "Subscribe"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/user-subscriptions.php:20
+msgid "Subscribed Forums"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/user-subscriptions.php:33
+msgid "Subscribed Topics"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/templates/usermenu/user/subscriptions-template.php:5
+#: disputo/templates/usermenu/header/subscriptions-template.php:2
+msgid "Subscriptions"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Subtitle"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Subtitle (Optional)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Success"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:185
+msgid "Successfully deleted %d expired transients."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:185
+msgid "Successfully deleted %d transients."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets.php:1
+msgid "Suitable for full width rows."
+msgstr ""
+
+#. Text in function
+#: disputo/bbpress/loop-topics.php:19
+msgid "TOPIC"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-forums.php:20
+msgid "TOPICS"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-tabs/disputo-tabs.php:1
+msgid "Tab"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-tabs/disputo-tabs.php:1
+msgid "Tabs"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Teeny Mode"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-accordion/disputo-accordion.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-tabs/disputo-tabs.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Text Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Text Editor"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "Thank you, your new post has been published."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "Thank you, your new post has been submitted and is pending review by a site administrator."
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/checkout/thankyou.php:41
+#: disputo/woocommerce/checkout/thankyou.php:85
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "The default fonts of the theme (Lato) is loaded via Google CDN."
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/myaccount/my-address.php:38
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "The maximum number of the posts which are displayed in pending and published posts tabs on user profile."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "The order to use when displaying comments."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:1156
+msgid "The reply was not found!"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/social-icons.php:50
+msgid "The text when you hover over the icon (Optional)."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "The topic was not found!"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Theme Settings"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/templates/messages/chats.php:63
+msgid "There are no chats to show. Get started by <a href=\"%s\">sending a message &raquo;</a>"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-chat.php:122
+msgid "There are no messages to show."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:1156
+msgid "There was a problem unreporting the reply \"%1$s\"."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "There was a problem unreporting the topic \"%1$s\"."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/disputo-post-form.php:1
+msgid "There was an error in the submission: %s"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/myblog.php:139
+msgid "There were no posts found."
+msgstr ""
+
+#. Text in echo
+#: disputo/includes/social-icons.php:35
+msgid "These icons will be displayed in the footer."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-divider/disputo-divider.php:1
+msgid "Thickness"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Screen.php:1
+msgid "This custom tab does not appear to have a valid content callback."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbp-private-replies.php:94
+msgid "This is a private reply."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbp-private-replies.php:94
+msgid "This reply has been marked as private."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "This reply has been reported for inappropriate content."
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:155
+msgid "This setting allows you to purge older messages from the database. Choose how many days the message sent date is older than, and the weekly cleanup task will cleanup messages accordingly."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "This topic has been reported for inappropriate content"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Three Columns"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Thumbnail Border Radius"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Thumbnail Gap  (Thumbnail Grid)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Thumbnail Grid (10-5-5)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Thumbnail Grid (12-6-4)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Thumbnail Grid (4-2-2)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Thumbnail Grid (6-4-3)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Thumbnail Grid (8-6-4)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Thumbnail Grid (9-6-6)"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "Thumbnail Size"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-accordion/disputo-accordion.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-tabs/disputo-tabs.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/disputo-list.php:1
+msgid "Title & Subtitle"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/social-icons.php:50
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "To allow everyone to publish post without admin approval, select \"published\"."
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-settings.php:34
+msgid "To unsubscribe from all, you can toggle off the email notifications from your profile edit screen."
+msgstr ""
+
+#. Text in echo
+#: disputo/templates/header-template.php:13
+msgid "Toggle Navigation"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Tooltip Background Color"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Tooltip Color"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-search-topic.php:14
+msgid "Topic"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "Topic \"%1$s\" successfully unreported."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-topics/disputo-topics.php:1
+msgid "Topic ID (To display the most recent topics, leave this field blank.)"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Topic Sidebar"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/content-statistics.php:61
+msgid "Topic Tags"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Topic Tags (BbPress)"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/content-statistics.php:39
+#: disputo/templates/xsforum-template.php:12
+#: disputo/templates/forum-template.php:12
+#: disputo/plugins/disputo-features/forum.php:27
+msgid "Topics"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-statistic/disputo-statistic.php:1
+msgid "Topics (BbPress)"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/user-engagements.php:19
+msgid "Topics Engaged In"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/bbpress/loop-single-reply.php:89
+#: disputo/bbpress/content-single-topic-lead.php:91
+#: disputo/bbpress/user-profile.php:41
+#: disputo/templates/usermenu/user/topics-template.php:3
+#: disputo/templates/usermenu/header/topics-template.php:
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/tpl/disputo-users-template.php:361
+msgid "Topics Started"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/tpl/disputo-slider-template.php:32
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/tpl/disputo-list-template.php:63
+msgid "Topics:"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/cart/cart.php:36
+#: disputo/woocommerce/cart/cart.php:120
+msgid "Total"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/thankyou.php:63
+msgid "Total:"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Trip Advisor"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:52
+msgid "Tumblr"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-rating-system/rating_system_admin.php:35
+msgid "Turn on like or dislike for comments"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-rating-system/rating_system_admin.php:35
+msgid "Turn on like or dislike for posts"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-rating-system/rating_system_admin.php:35
+msgid "Turn on or off dislike button"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Twitch"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:34
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Two Columns"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Two Columns + Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:233
+msgid "Type a message.."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Typography"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/thankyou.php:32
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:1156
+msgid "Unreport"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+msgid "Unreport inappropriate content"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:158
+msgid "Update Profile"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:158
+msgid "Update User"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/cart/cart.php:148
+msgid "Update cart"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Upload Image"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/adsadmin.php:35
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "User Blog"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/verified-users.php:1
+msgid "User ID"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "User Menu"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "User Menu Items"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "User Profiles"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:129
+msgid "User Role"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/verified-users.php:1
+msgid "User verified Status Is Changed"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:108
+#: disputo/woocommerce/myaccount/form-login.php:73
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/myaccount/form-lost-password.php:31
+msgid "Username or email"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/myaccount/form-login.php:36
+msgid "Username or email address"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Settings.php:131
+msgid "Uses options API to store cache"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-masonry/disputo-masonry.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-carousel/disputo-carousel.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-slider/disputo-slider.php:1
+msgid "VIEW ALL"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:70
+msgid "VK"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-topics.php:20
+msgid "VOICES"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/verified-users.php:1
+msgid "Verified"
+msgstr ""
+
+#. Text in function
+#: disputo/bbpress/loop-single-reply.php:67
+#: disputo/bbpress/user-details.php:18
+#: disputo/bbpress/content-single-topic-lead.php:54
+#: disputo/plugins/disputo-features/verified-users.php:65
+#: disputo/plugins/disputo-features/verified-users.php:66
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/tpl/disputo-users-template.php:209
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/tpl/disputo-users-template.php:328
+msgid "Verified User"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/verified-users.php:69
+msgid "Verify this user"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Vertical"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/forum.php:25
+msgid "View All"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/myblog.php:94
+msgid "View All Posts"
+msgstr ""
+
+#. Text in echo
+#: disputo/templates/authorbox-template.php:41
+msgid "View Profile"
+msgstr ""
+
+#. Text in echo
+#: disputo/templates/authorbox-template.php:45
+msgid "View all posts by"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/loop-chat.php:30
+msgid "View chat"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/faq.php:1
+msgid "View question"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "Vimeo"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "Vine"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Visual Editor"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-features/so-widgets/disputo-list/tpl/disputo-list-template.php:72
+msgid "Voices:"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-action/disputo-action.php:1
+msgid "Warning"
+msgstr ""
+
+#. Text in echo
+#: disputo/plugins/disputo-messages/templates/messages/single-settings.php:46
+msgid "Warning: this action is irreversible and you cannot restore your chat messages once deleted."
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/form-user-edit.php:65
+#: disputo/bbpress/user-profile.php:116
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:88
+msgid "Whatsapp"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+msgid "WooCommerce"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "WooCommerce Shopping Cart"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "Woocommerce"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "Woocommerce Sidebar Widget Field."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/kirki.php:1
+#: disputo/plugins/disputo-features/social-media.php:115
+msgid "Xing"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/templates/messages/loop-chat.php:11
+msgid "You"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+#: disputo/includes/social-icons.php:50
+msgid "You Tube"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "You Tube Channel ID"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-ytv/disputo-ytv.php:1
+msgid "You Tube Username"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/meta-boxes.php:1
+msgid "You can change default background image from theme settings."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/so-widgets/disputo-users/disputo-users.php:1
+msgid "You can find user IDs at Users page. To exclude multiple users, add comma between IDs."
+msgstr ""
+
+#. Text in echo
+#: disputo/search.php:138
+msgid "You can search for the page you were looking for or;"
+msgstr ""
+
+#. Text in echo
+#: disputo/404.php:17
+msgid "You can search for the page you were looking for;"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "You can use SiteOrigin Layout Builder Widget to create columns for your widgets."
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/feedback-no-access.php:15
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:213
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:1156
+#: disputo/plugins/disputo-features/class-bbp-solved-topic.php:1
+msgid "You do not have the permission to do that!"
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/myaccount/my-address.php:48
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Text in function
+#: disputo/bbpress/content-single-forum.php:64
+msgid "You must be a verified user to create a new topic."
+msgstr ""
+
+#. Text in function
+#: disputo/bbpress/content-single-topic.php:43
+msgid "You must be a verified user to reply."
+msgstr ""
+
+#. Text in function
+#: disputo/woocommerce/checkout/form-checkout.php:1
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-rating-system/comments.php:1
+#: disputo/plugins/disputo-rating-system/posts-pages.php:1
+msgid "You must be logged in to vote."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/kirki.php:1
+msgid "You should enable site registration from Settings -> General -> Membership to make it work."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Your chat is being deleted."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/Init.php:1
+msgid "Your messages are being deleted."
+msgstr ""
+
+#. Text in echo
+#: disputo/woocommerce/checkout/form-checkout.php:50
+msgid "Your order"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "a moment"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Admin/Importers/bbPMessages.php:1
+msgid "bbPM importer"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:655
+#: disputo/includes/kirki.php:1
+msgid "bbPress"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:1
+msgid "bbPress - Report Content requires bbPress to be activated."
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-features/class-bbpress-report-content.php:1
+msgid "bbPress - Report Content was deactivated. This plugin requires bbPress to be active."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "bbPress Forum Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/BbpMessages.php:1
+#: disputo/plugins/disputo-messages/Inc/Admin/Screen.php:1
+msgid "bbPress Messages"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "bbPress Search Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "bbPress Sidebar is displayed on forums."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "bbPress Sidebar is displayed on search page."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "bbPress Sidebar is displayed on topics."
+msgstr ""
+
+#. Text in function
+#: disputo/includes/functions.php:630
+msgid "bbPress Topic Sidebar"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "day"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "days"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "hour"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "hours"
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-search-topic.php:39
+msgid "in forum "
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-search-topic.php:39
+msgid "in group forum "
+msgstr ""
+
+#. Text in echo
+#: disputo/bbpress/loop-single-reply.php:26
+msgid "in reply to: "
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "minute"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "minutes"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "month"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "months"
+msgstr ""
+
+#. Text in echo
+#: disputo/404.php:21
+msgid "or Return Home"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "second"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "seconds"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "year"
+msgstr ""
+
+#. Text in function
+#: disputo/plugins/disputo-messages/Inc/Core/functions.php:1
+msgid "years"
+msgstr ""
