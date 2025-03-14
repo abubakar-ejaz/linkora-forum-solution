@@ -1,3 +1,0 @@
-
----Downloaded files---
-An error occurred while fetching file from: <strong>http://disputo.egemenerd.com/demo/demo1.xml</strong>!<br>Reason: http_request_failed - cURL error 7: Failed to connect to disputo.egemenerd.com port 80 after 101 ms: Connection refused.<br>
